@@ -68,6 +68,21 @@ ul.icons a {
     font-size: 1em;
 }
 
+.item img {
+    width: 100%;
+}
+
+.avatar48 img {
+    width: 50px;
+    border-radius: 50%;
+}
+
+.featured img {
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+}
+
 /* Icons */
 
 .icon {
